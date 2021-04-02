@@ -11,7 +11,7 @@ Completed the following tasks:
 5. Determine the winner of the election based on popular vote.
 6. Calculated the voter turnout for each county.
 7. Calculated the percentage of votes from each county out of the total count
-8. Determined the count with the highest turnout.
+8. Determined the county with the highest turnout.
 
 ## Resources
 - Data Source: election_results.csv
